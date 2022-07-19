@@ -15,7 +15,7 @@ export function Header() {
           <a href="#home">Home</a>
           <a href="#message">Sobre</a>
           <a href="#roadmap">Roadmap</a>
-          {/* <a href="#">Team</a> */}
+          <a href="#team">Team</a>
         </nav>
         <div className="header-buttons">
           <div>

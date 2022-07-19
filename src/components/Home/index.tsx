@@ -16,7 +16,6 @@ export function Home() {
             Tenha mais controle, segurança e liberdade na hora de criar os seus{" "}
             <span className="text-effect">eventos</span>
           </h1>
-          <p>Crie seus eventos usando ingressos tokenizados</p>
         </div>
         <div className="carousel">
           <Carousel autoPlay={true} infiniteLoop={true} showStatus={false} showThumbs={false} showArrows={false}>

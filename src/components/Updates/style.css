@@ -1,7 +1,5 @@
 section.updates {
-  background: var(--background);
-  border-top: 1px solid #29292e;
-  border-bottom: 1px solid #29292e;
+  background: var(--background-gradient);
 }
 
 

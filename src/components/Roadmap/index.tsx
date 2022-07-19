@@ -22,10 +22,10 @@ export function Roadmap() {
                 <MagnifyingGlass size={22} weight="duotone" />
               </div>
               <p> <span className="text-effect">&rArr; </span>
-                 Pesquisa de mercado
+                 Pesquisa de mercado.
               </p>
               <p>	<span className="text-effect">&rArr; </span>
-                Expansão do time
+                Expansão do time.
               </p>
               <p>	<span className="text-effect">&rArr; </span>
                 Começar o desenvolvimento da carteira de NFT (tickets) e marketplace de ingressos.
