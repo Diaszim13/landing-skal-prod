@@ -6,7 +6,7 @@ export function Footer() {
     <footer className="footer-page" id="team">
       <div>
         <div className="social-links">
-          <a href="#">
+          <a href="https://www.instagram.com/skal.xyz/">
             <InstagramLogo size={32} />
           </a>
           <a href="#">

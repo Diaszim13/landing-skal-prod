@@ -30,9 +30,9 @@ export function Header() {
           <Link to="roadmap" smooth={true}>
             RoadMap
           </Link>
-          <Link to="team" smooth={true}>
+          {/* <Link to="team" smooth={true}>
             Team
-          </Link>
+          </Link> */}
         </nav>
         <div className="header-buttons">
           <div>

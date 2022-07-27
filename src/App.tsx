@@ -14,7 +14,7 @@ export function App() {
       <Message />
       <About />
       <Roadmap />
-      <Updates />
+      {/* <Updates /> */}
       <Footer/>
     </div>
   )
