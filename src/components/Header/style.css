@@ -60,7 +60,8 @@ a.active, a:hover {
   font-size: 1.3rem;
 }
 
-/* .btn-connect {
+ .btn-litepaper {
+  margin-right: 20px;
   border-radius: .2rem;
   background: var(--green);
   padding: 0.625rem 1.375rem;
@@ -69,14 +70,15 @@ a.active, a:hover {
   outline: none;
   cursor: pointer;
   font-weight: 500;
+  font-size: medium;
   transition: background-color .2s ease;
 }
 
-.btn-connect:hover {
+.btn-litepaper:hover {
   background-color: transparent;
   border: 1px solid var(--green);
   color: var(--text-primary);
-} */
+}
 
 .btn-mobile {
   display: none;

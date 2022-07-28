@@ -24,19 +24,18 @@ export function Header() {
           <Link to="home" smooth={true}>
             Home
           </Link>
-          <Link to="about" smooth={true} marginWidth={100}>
+          <Link to="message" smooth={true} marginWidth={100}>
             About
           </Link>
           <Link to="roadmap" smooth={true}>
-            RoadMap
+            Roadmap
           </Link>
-          {/* <Link to="team" smooth={true}>
-            Team
-          </Link> */}
         </nav>
         <div className="header-buttons">
-          <div>
-            <span>
+          <a href="https://drive.google.com/file/d/1kdvfxHulrfuHVLe0EfnmlKZs1AsOye71/view?usp=sharing" target="_blank">
+            <button className="btn-litepaper">Litepaper</button>
+          </a>
+          {/* <span>
               <ReactCountryFlag
                 countryCode="BR"
                 svg
@@ -45,9 +44,7 @@ export function Header() {
                   height: "24px",
                 }}
               />
-            </span>
-          </div>
-          {/* <button className="btn-connect">Connect Wallet</button> */}
+            </span> */}
         </div>
         <button
           className="btn-mobile"
