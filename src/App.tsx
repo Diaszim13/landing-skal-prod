@@ -11,8 +11,10 @@ export function App() {
     <div className='App' id='top'>
       <Header />
       <Home />
+      <a id='message'></a>
       <Message />
       <About />
+      <a id='roadmap'></a>
       <Roadmap />
       {/* <Updates /> */}
       <Footer/>

@@ -11,7 +11,7 @@ section.home > div {
   gap: 5.7rem;
   margin: 2rem auto;
   flex-wrap: wrap;
-  padding: 0 1.2rem;
+  padding: 1rem 1.2rem;
 }
 
 .title {

@@ -1,10 +1,10 @@
 :root {
-  --green: #56e404;
-  --text-primary: #f0f0f0;
-  --text-secondary: #a8a8b3;
+  --green: #33ff33;
+  --text-primary: #ffffff;
+  --text-secondary: #c3c3d1;
 
-  --background: #121214;
-  --background-gradient: linear-gradient(270deg, #060A08 0%, #121214 100%);
+  --background: #202020;
+  --background-gradient: linear-gradient(270deg, #060A08 0%, #202020 100%);
 
   --border-color: #29292e;
 }

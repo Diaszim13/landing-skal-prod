@@ -1,10 +1,9 @@
 import { List, X } from "phosphor-react";
 import { useState } from "react";
-import skalLogoImg from "../../assets/logo.png";
+import skalLogoImg from "../../assets/logo.png"
 import { Link, animateScroll as scroll } from "react-scroll";
 
 import "./style.css";
-import ReactCountryFlag from "react-country-flag";
 
 export function Header() {
   const [isMobileButtonActive, setIsMobileButtonActive] = useState(false);
@@ -25,7 +24,7 @@ export function Header() {
             Home
           </Link>
           <Link className="links" to="message" smooth={true} marginWidth={100}>
-            About
+            Sobre
           </Link>
           <Link className="links" to="roadmap" smooth={true}>
             Roadmap

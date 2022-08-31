@@ -20,7 +20,7 @@ section.message > div > h2 {
 }
 
 section.message > div > svg {
-  animation: animate-rocket 2s infinite alternate ease-in-out;
+  animation: animate-rocket 1s infinite alternate ease-in-out;
 }
 
 @keyframes animate-rocket {
