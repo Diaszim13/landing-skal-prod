@@ -23,10 +23,10 @@ export function Header() {
           <Link className="links" to="top" smooth={true}>
             Home
           </Link>
-          <Link className="links" to="message" smooth={true} marginWidth={100}>
+          <Link className="links" to="about" smooth={true} offset={-100}>
             Sobre
           </Link>
-          <Link className="links" to="roadmap" smooth={true}>
+          <Link className="links" to="roadmap" smooth={true} offset={-100}>
             Roadmap
           </Link>
         </nav>
