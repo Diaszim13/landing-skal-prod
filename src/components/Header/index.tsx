@@ -26,7 +26,7 @@ export function Header() {
           <Link className="links" to="about" smooth={true} offset={-100}>
             Sobre
           </Link>
-          <Link className="links" to="roadmap" smooth={true} offset={-100}>
+          <Link className="links" to="roadmap" smooth={true} offset={-65}>
             Roadmap
           </Link>
         </nav>
