@@ -1,4 +1,4 @@
-import { GithubLogo, Globe, InstagramLogo } from 'phosphor-react';
+import { InstagramLogo } from 'phosphor-react';
 import './style.css';
 
 export function Footer() {
@@ -9,14 +9,8 @@ export function Footer() {
           <a href="https://www.instagram.com/skal.xyz/">
             <InstagramLogo size={32} />
           </a>
-          <a href="#">
-            <GithubLogo size={32} />
-          </a>
-          <a href="#">
-            <Globe size={32} />
-          </a>
         </div>
-        <p>&copy; 2022 Copyright - Todos os direitos reservados</p>
+        <p>&copy; 2022 Skål - Todos os direitos reservados</p>
       </div>
     </footer>
   )

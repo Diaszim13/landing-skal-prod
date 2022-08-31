@@ -8,7 +8,7 @@ import { Updates } from './components/Updates'
 import {Footer} from './components/Footer'
 export function App() {
   return (
-    <div className='App'>
+    <div className='App' id='top'>
       <Header />
       <Home />
       <Message />

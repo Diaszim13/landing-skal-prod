@@ -21,13 +21,13 @@ export function Header() {
           <img src={skalLogoImg} alt="logo skal" />
         </div>
         <nav>
-          <Link to="home" smooth={true}>
+          <Link className="links" to="top" smooth={true}>
             Home
           </Link>
-          <Link to="message" smooth={true} marginWidth={100}>
+          <Link className="links" to="message" smooth={true} marginWidth={100}>
             About
           </Link>
-          <Link to="roadmap" smooth={true}>
+          <Link className="links" to="roadmap" smooth={true}>
             Roadmap
           </Link>
         </nav>

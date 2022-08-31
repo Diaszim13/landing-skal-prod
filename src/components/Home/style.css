@@ -11,7 +11,7 @@ section.home > div {
   gap: 5.7rem;
   margin: 2rem auto;
   flex-wrap: wrap;
-  padding: 4rem 1.2rem;
+  padding: 0 1.2rem;
 }
 
 .title {
@@ -28,6 +28,7 @@ section.home > div {
 
 .text-effect {
   color: var(--green);
+  vertical-align: middle;
 }
 
 .carousel {

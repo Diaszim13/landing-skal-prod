@@ -6,7 +6,7 @@ section.message {
 section.message > div {
   max-width: 1100px;
   margin: auto;
-  padding: 4rem 1.2rem;
+  padding: 8rem 1.2rem;
   display: flex;
   justify-content: center;
   align-items: center;
