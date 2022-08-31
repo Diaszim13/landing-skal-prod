@@ -18,7 +18,7 @@ export function Roadmap() {
           <TabPanel>
             <div className="panel-roadmap">
               <div>
-                <h3>Pesquisa e início do desenvolvimento</h3>
+                <h3>Pesquisa</h3>
                 <MagnifyingGlass size={22} weight="duotone" />
               </div>
               <p><CaretRight size={20} className="text-effect" />
@@ -28,7 +28,7 @@ export function Roadmap() {
                 Expansão do time;
               </p>
               <p><CaretRight size={20} className="text-effect"/>
-                Começar o desenvolvimento da carteira de NFT (tickets) e marketplace de ingressos.
+                Branding.
               </p>
             </div>
           </TabPanel>

@@ -7,7 +7,7 @@ section.cards {
 }
 
 .card {
-  background: #0d0d0e;
+  background: #161717;
   border: 1px solid var(--border-color);
   border-radius: .5rem;
   padding: 1rem 2rem;
