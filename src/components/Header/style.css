@@ -62,10 +62,10 @@ a.active, a:hover {
 
 .btn-litepaper {
   border-radius: .2rem;
-  background: var(--green);
+  background: transparent;
   padding: 0.625rem 1.375rem;
   color: #fff;
-  border: 1px solid transparent;
+  border: 1px solid var(--green);
   outline: none;
   cursor: pointer;
   font-weight: 500;
@@ -74,7 +74,7 @@ a.active, a:hover {
 }
 
 .btn-litepaper:hover {
-  background-color: transparent;
+  background-color: var(--green);
   border: 1px solid var(--green);
   color: var(--text-primary);
 }

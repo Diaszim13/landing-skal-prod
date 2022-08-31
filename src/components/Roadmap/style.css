@@ -46,8 +46,12 @@ section.roadmap > div h2::before {
 }
 
 .react-tabs__tab--selected {
-  background: var(--green);
+  border: 1px solid var(--green);
   font-weight: 500;
+}
+
+.react-tabs__tab:hover {
+  background: var(--green);
 }
 
 .panel-roadmap {
