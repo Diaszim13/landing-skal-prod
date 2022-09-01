@@ -33,3 +33,8 @@ section.about > div > p {
   line-height: 1.6;
   font-size: 1.1rem;
 }
+
+section.about > div > p > a {
+  text-decoration: none;
+  color: var(--green);
+}

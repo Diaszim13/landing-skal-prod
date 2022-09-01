@@ -49,7 +49,7 @@ export function Roadmap() {
               </p>
             </div>
           </TabPanel>
-          <TabPanel>
+          {/* <TabPanel>
             <div className="panel-roadmap">
               <div>
                 <h3>Título 03</h3>
@@ -74,7 +74,7 @@ export function Roadmap() {
                 tempore quae corporis, soluta velit quos explicabo.
               </p>
             </div>
-          </TabPanel>
+          </TabPanel> */}
         </Tabs>
       </div>
     </section>
