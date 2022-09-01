@@ -54,6 +54,11 @@ section.roadmap > div h2::before {
   background: var(--green);
 }
 
+.align-middle {
+  vertical-align: middle;
+  color: var(--green);
+}
+
 .panel-roadmap {
   background: var(--background);
   border: 1px solid var(--border-color);

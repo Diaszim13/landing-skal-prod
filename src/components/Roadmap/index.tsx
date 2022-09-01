@@ -21,13 +21,13 @@ export function Roadmap() {
                 <h3>Pesquisa</h3>
                 <MagnifyingGlass size={22} weight="duotone" />
               </div>
-              <p><CaretRight size={20} className="text-effect" />
+              <p><CaretRight size={20} className="align-middle" />
                  Pesquisa de mercado;
               </p>
-              <p><CaretRight size={20} className="text-effect" />
+              <p><CaretRight size={20} className="align-middle" />
                 Expansão do time;
               </p>
-              <p><CaretRight size={20} className="text-effect"/>
+              <p><CaretRight size={20} className="align-middle"/>
                 Branding.
               </p>
             </div>
@@ -38,13 +38,13 @@ export function Roadmap() {
                 <h3>Desenvolvimento</h3>
                 <Laptop size={22} weight="duotone" />
               </div>
-              <p><CaretRight size={20} className="text-effect" />
+              <p><CaretRight size={20} className="align-middle" />
                  Desenvolver carteira de tickets;
               </p>
-              <p><CaretRight size={20} className="text-effect" />
+              <p><CaretRight size={20} className="align-middle" />
                 Desenvolver marketplace de tickets;
               </p>
-              <p><CaretRight size={20} className="text-effect"/>
+              <p><CaretRight size={20} className="align-middle"/>
                 Desenvolver feed de eventos.
               </p>
             </div>
