@@ -16,7 +16,7 @@ export function App() {
       <About />
       <a id='roadmap'></a>
       <Roadmap />
-      {/* <Updates /> */}
+      <Updates />
       <Footer/>
     </div>
   )

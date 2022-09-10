@@ -42,20 +42,25 @@ section.updates > div > h2 {
   outline: 1px solid var(--green);
 }
 
-.send-email button {
+.send-email .btn {
   border-radius: 0 .2rem .2rem 0;
-  background: var(--green);
+  background: transparent;
   padding: 0.625rem 1.375rem;
   color: #fff;
-  border: 1px solid transparent;
+  border: 1px solid var(--green);
   outline: none;
   cursor: pointer;
   font-weight: 500;
   transition: background-color .2s ease;
 }
 
-.send-email button:hover {
-  background-color: transparent;
+.send-email .btn:hover {
+  background-color: var(--green);
   border: 1px solid var(--green);
   color: var(--text-primary);
+}
+
+.Toastify__toast-theme--light {
+  background-color: var(--background) !important;
+  color: #fff !important;
 }
