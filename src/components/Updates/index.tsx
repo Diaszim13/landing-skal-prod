@@ -28,7 +28,7 @@ export function Updates() {
     });
 
   const saveEmail = () => {
-    fetch('http://127.0.0.1:8000/users/', {
+    fetch('http://g7miserski.pythonanywhere.com/users/', {
       method: 'POST',
       body: JSON.stringify({
         email

@@ -5,7 +5,9 @@ import { Message } from './components/Message'
 import { About } from './components/About'
 import { Roadmap } from './components/Roadmap'
 import { Updates } from './components/Updates'
-import {Footer} from './components/Footer'
+import { Footer } from './components/Footer'
+
+
 export function App() {
   return (
     <div className='App' id='top'>
@@ -17,7 +19,7 @@ export function App() {
       <a id='roadmap'></a>
       <Roadmap />
       <Updates />
-      <Footer/>
+      <Footer />
     </div>
   )
 }
