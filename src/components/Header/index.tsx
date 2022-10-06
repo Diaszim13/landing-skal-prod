@@ -31,7 +31,7 @@ export function Header() {
           </Link>
         </nav>
         <div className="header-buttons">
-          <a href="https://drive.google.com/file/d/1kdvfxHulrfuHVLe0EfnmlKZs1AsOye71/view?usp=sharing" target="_blank">
+          <a href="https://drive.google.com/file/d/1t0cXzrchRBZJWzx2ebPcc0Phueld6a6I/view?usp=sharing" target="_blank">
             <button className="btn-litepaper">Litepaper</button>
           </a>
           {/* <span>
